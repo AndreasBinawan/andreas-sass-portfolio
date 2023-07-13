@@ -1,0 +1,16 @@
+.home {
+  height: 100%;
+  padding-top: 40vh;
+  overflow: hidden;
+  align-items: center;
+  text-align: center;
+  background: url("/dist/images/vecteezy_boy-standing-holding-laptop-with-left-hand-giving-thumbs-up_11006184_525.png") center top;
+  height: 100% !important;
+  background-size: cover;
+}
+.home__name {
+  font-size: 5rem;
+  padding-top: 1rem;
+  margin-top: 1rem;
+  border-bottom: 2px solid #fff;
+}
